@@ -1,0 +1,4 @@
+Create an app with GUI ( use pyQt5 )
+
+function : collect, save, export to excel, insert to excel, view computer list, 
+	view computer info

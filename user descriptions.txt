@@ -1,0 +1,15 @@
+collect system information of all computer in company
+it should show me:
+	Name of Computer
+	O/S
+	Year of manufacture
+	model
+	LAN ip and MAC
+	WLAN ip and MAC
+	Hardware Specifications
+	Hardware serial number
+	Windows key
+	Office key
+	Software List
+i collect the information then save it to text file with name of each computer
+then put it into excel file
